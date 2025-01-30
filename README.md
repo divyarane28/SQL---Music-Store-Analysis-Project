@@ -1,2 +1,2 @@
 # SQL---Music-Store-Analysis-Project
-SQL end to end project from basic to advance
+This is project of Music store analysis in SQL from basic to advance. Included with schema diagram and questions with its query solutions.
